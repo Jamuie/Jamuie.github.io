@@ -14,7 +14,7 @@ body{
 	margin: auto;
 	margin-top: 50px;
 	border-radius: 20px;
-	background:#D8C2DA repeat;
+	background:url(images/DOT_BG.jpg)repeat;
 	box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 
@@ -23,7 +23,7 @@ body{
 	height:180px;
 	margin:auto;
 	margin-top: 50px;
-	background-color:#FF80C0;
+	background-color:#D8C2DA;
 	background-image: url("images/head8.png");
 	background-repeat: no-repeat;
 	background-position: center;
